@@ -1,0 +1,7 @@
+0|
+Bravo ! Vous avez reussi à installer le dome de survie, vous pouvez etre sur qu’aucune autre catastrophe naturelle ne decimera la population. Vous decidez alors d’aller à la recherche des boules graineuses et de les planter. Vous observez à l’horizon et voyez une foret et un lac. Vous decidez d’aller vers : 
+
+
+Choix 1 : Le lac 
+
+Choix 2 : La foret 

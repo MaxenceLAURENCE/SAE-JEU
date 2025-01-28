@@ -1,0 +1,12 @@
+0|
+You accept the presence of the Jawas and try to communicate with them. With a few gestures, they offer you valuable tools to improve your equipment. 
+
+The Jawas seem to have a camp nearby, where they grow local plants. 
+Living with them, you learn that they have knowledge of the local flora and fauna, which could help you better prepare the planet for humans. 
+
+However, their camp is under attack from predators, and you have to decide whether you want to help them defend their territory or stay behind and let them handle it.
+
+
+Choice 1: You help the Jawas defend their camp. 
+
+Choice 2: You choose to stand back to protect your own interests.

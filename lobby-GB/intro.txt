@@ -1,0 +1,24 @@
+﻿0|
+Your journey begins when you get onboard the space shuttle Prometheus which takes you to the planet Amarok, where your mission will take place. 
+
+You land safely on a planet that looks uninhabited at first glance. Fortunately, the President of AAA has left you a video message in which he gives you instructions about what you have to do :
+
+- The survival dome: this will prevent the planet from being affected by another natural disaster. You already have the equipment to install it in your shuttle. The dome must be installed at all costs!
+
+- Find the seed balls and plant them: those balls were sent to the planet before you landed. They should not be too far from where you landed. They must be planted, otherwise humanity will have nothing to eat.
+
+- Defeat the mother of monsters Gaïa: There are an infinite number of monsters/beasts on Amarok. But they are all linked in some way to their mother Gaïa which means that her death will undoubtedly mean the death of all the beasts. Kill her to ensure the safety of humans on Amarok!
+
+PS: Earth is not the only planet that has become uninhabitable. You may find other alien species. Judge what they can do for our species and act accordingly.
+
+
+After listening carefully to the message, you decide to get out of your ship with  determination and start your missions. You decide to start with the most important one, the installation of the life support dome. 
+
+To install it, you have to solve a series of mathematical calculations.
+ 
+The calculation is as follows: 
+(25 x 4 - 100) + (50 / 2 - 25) - (10 × 3 - 30) + (45 - 45) x 0
+
+Choice 1 : 0 
+
+Choice 2 : 49 

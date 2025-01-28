@@ -1,0 +1,2 @@
+2|
+Vous avez casse le dome en essayant de l'installer, la mission echoue et l'humanite va s'eteindre sans que vous puissiez faire quoi que ce soit.

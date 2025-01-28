@@ -1,0 +1,3 @@
+Action puis déplacement. 
+
+donc choix 1 -> lecture de choice1.txt puis go ./choice1/  

@@ -1,0 +1,15 @@
+0|
+Vous acceptez la presence des Jawas et essayez de communiquer avec eux. 
+
+Grace a quelques gestes et au troc, ils vous offrent des outils precieux pour ameliorer votre equipement. 
+
+Les Jawas semblent avoir un campement non loin, ou ils cultivent des plantes exotiques. 
+
+En vivant avec eux, vous apprenez qu’ils ont des connaissances sur la faune et la flore locales, ce qui pourrait vous aider a mieux preparer la planete pour les humains. 
+
+Cependant, leur camp est la cible d’attaques de predateurs, et vous devez decider si vous voulez les aider a defendre leur territoire ou rester en retrait
+
+
+Choix 1 : Vous aidez les Jawas a defendre leur camp. 
+
+Choix 2 : Vous choisissez de rester en retrait pour proteger vos propres interets. 
