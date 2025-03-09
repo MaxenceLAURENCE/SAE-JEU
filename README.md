@@ -1,3 +1,9 @@
+# EXPLICATION 
+Dans le cadre d'une SAE Jeu Vidéo réalisée du 13 au 17 janvier 2025, nous avons dû réaliser par groupe de 2 un jeu vidéo textuel en C. 
+
+Plusieurs documents étaient demandés notamment une documentation README en anglais. 
+
+
 # README.md
 
 ## Creators
